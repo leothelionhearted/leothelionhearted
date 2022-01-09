@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leothelionhearted
 - 👀 I’m interested in learning Docker and K8s - 
 - 🌱 I’m currently learning Docker Git and am an Cert Avid ACSR for their storage as well as a K8s product called MediaCentral
-- 💞️ I’m looking to collaborate on a tool for finding and eliminatingdark and grey matter in Avids FOS on their shared storage
+- 💞️ I’m looking to collaborate on a tool for finding and eliminating dark and grey matter in Avids FOS on their shared storage
 - 📫 How to reach me - is to email me at leothelionhearted@gmail.com
 
 <!---
