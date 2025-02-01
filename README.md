@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leothelionhearted
 - 👀 I’m interested in local AI models 
 - 🌱 I’m currently learning about life
-- 💞️ I’m looking to collaborate with Ansible - Projects, Inventory, Trunking
+- 💞️ I’m looking to collaborate on Vulnerability mitigation projects, Ansible setup and trunking, IaC automation
 - 📫 How to reach me - is to email me at leothelionhearted@gmail.com
 
 <!---
