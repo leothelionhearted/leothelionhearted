@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leothelionhearted
-- 👀 I’m interested in learning about AI in VS Code 
-- 🌱 I’m currently learning about K3's
-- 💞️ I’m looking to collaborate on developing production automation.
+- 👀 I’m interested in local AI models 
+- 🌱 I’m currently learning about life
+- 💞️ I’m looking to collaborate with Ansible - Projects, Inventory, Trunking
 - 📫 How to reach me - is to email me at leothelionhearted@gmail.com
 
 <!---
